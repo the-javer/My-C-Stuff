@@ -6,11 +6,8 @@
 // The value of rock is 1
 // The value of paper is 2
 // The value of scissors is 3
-int math;
-char usrchoice;
-int intchoice;
-int compchoice;
-char ans;
+int math, intchoice, compchoice;
+char usrchoice, ans;
 
 int *mathptr = &math, *intptr = &intchoice, *compptr = &compchoice;
 char *usrptr = &usrchoice, *ansptr = &ans;
