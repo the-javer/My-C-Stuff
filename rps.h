@@ -6,5 +6,7 @@ void logic();
 void leave();
 void deallocate();
 void allocate();
+void score();
+void reset();
 
 #endif
